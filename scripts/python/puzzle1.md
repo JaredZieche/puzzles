@@ -1,0 +1,2 @@
+# Puzzle 1
+The garbled text below is used as the input for Puzzle one. This paragraph is identified within the html with an id of `r a n d o m` (without the spaces) and is 10000 characters long. There are several dollar sign characters in the following garbled sample. Immediately following each dollar sign is a key letter. Collect all the key letters, in order. When put together, they will spell a word. That word is the answer to the puzzle.
